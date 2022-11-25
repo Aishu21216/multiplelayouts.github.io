@@ -1,0 +1,38 @@
+.festcard{
+    background-image: url("https://img.freepik.com/premium-vector/christmas-postcard-santa-claus-friend-xmas-train-paper-cut-illustration_68971-1170.jpg?w=996");
+    background-size: cover;
+    height: 55vh;
+}
+.headfirst{
+    color:crimson;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+}
+.festcardbottom{
+    background-color: #bdb040;
+    height: 80vh;
+
+}
+.imgpng{
+    height: 80px;
+    width: 80px;
+}
+.christmascard{
+    background-color: white;
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    height: 145px;
+    text-align: center;
+}
+.hatstyling{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.hatpara{
+    font-weight: 600;
+
+}
